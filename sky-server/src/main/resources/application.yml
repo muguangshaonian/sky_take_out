@@ -55,6 +55,6 @@ sky:
     notify-url: ${sky.wechat.refund-notify-url}
     refund-notify-url: ${sky.wechat.refund-notify-url}
   shop:
-    address: 福建省福州市闽侯县闽江学院
+    address: 福建省福州市*****
   baidu:
     ak: LBqwbpl*****xvs99gqhnA9
