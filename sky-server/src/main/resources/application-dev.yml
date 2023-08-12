@@ -5,16 +5,16 @@ sky:
     port: 3306
     database: sky_take_out
     username: root
-    password: ygf
+    password: ***
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tDLxZoovH2M6p8xau4V
-    access-key-secret: eC7qMElzR6G8ksk30SRKLQzBstiteK
+    access-key-id: LTAI5***p8xau4V
+    access-key-secret: eC7qMElzR6****LQzBstiteK
     bucket-name: sky-mju
   redis:
     host: localhost
     port: 6379
-    password: ygf
+    password: ***
     database: 1
   wechat:
     appid: wx4d****e9182
