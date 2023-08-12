@@ -17,7 +17,7 @@ sky:
     password: ygf
     database: 1
   wechat:
-    appid: wx4d311710633e9182
-    secret: 6ff85ab0915a969e0d9c9de5f3456afb
+    appid: wx4d****e9182
+    secret: 6ff8*********456afb
     notify-url:  https://7ee893bb.r9.cpolar.top/notify/paySuccess
     refund-notify-url:  https://7ee893bb.r9.cpolar.top/notify/refundSuccess
